@@ -1,6 +1,6 @@
-# JavaScript Promises by Example
+# JavaScript: The (Really) Good Parts
 
-This repo features several working examples of JavaScript Promises and composition functions of the Promise object.
+This repo features several working examples of awesome JavaScript features from ECMAScript 3 through ES 2022.
 
 To use this:
 
@@ -10,7 +10,7 @@ To use this:
 4) Click on an example's button to execute it
     * observe the results in your browser console
 
-These example correspond to my presentation **This is a Promise That You'll Understand Asynchronous Programming with JavaScript**.
+These example correspond to my presentation **JavaScript: The (Really) Good Parts**.
 
 ## Live Demo
 
