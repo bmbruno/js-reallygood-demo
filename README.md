@@ -14,8 +14,8 @@ These example correspond to my presentation **JavaScript: The (Really) Good Part
 
 ## Live Demo
 
-* https://www.brandonbruno.com/sites/code/jspromise
+* https://www.brandonbruno.com/sites/code/jsreallygood
 
 ## Contact Info
 
-For questions, reach out to me on Twitter: [@BrandonMBruno](https://twitter.com/BrandonMBruno)
+For questions, reach out to me via email: [bmbruno@gmail.com](mailto:bmbruno@gmail.com)
