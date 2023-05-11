@@ -44,7 +44,9 @@ header, .content { max-width: 700px; margin: 0 auto; }
 header { margin: 2em auto 0 auto; text-align: center; }
 .content { background-color: rgba(255, 255, 255, 0.5); margin: 2em auto; padding: 2em; border-radius: 16px; box-shadow: 0 12px 32px rgb(0, 0, 0, 0.5); }
 
-.card { margin: 0 0 1em 0; background-color: #fff; padding: 1em; border-radius: 6px; }
+.card { margin: 0 0 1em 0; background-color: #fff; padding: 1.5em; border-radius: 6px; }
 .card:last-of-type { margin-bottom: 0; }
 .card button { padding: 0.5em 2em; cursor: pointer; }
 .card p { margin: 1em 0 0 0; }
+.card ul { margin: 1em 0; }
+.card li { margin-left: 2em; list-style-type: disc; margin-bottom: 1em;}
