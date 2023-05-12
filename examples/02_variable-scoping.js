@@ -79,14 +79,15 @@
         const announcement = "This cannot be changed!";
         console.log(announcement);
         
-        // This will throw an error in the console
+        // This will throw an error in the console (comment out this line to continue execution)
         announcement = "NEW VALUE";
 
-        // Arrays and object sub-values can still be mutated, but the variable cannot be re-assigned
+        // Arrays and object sub-values can still be changed
         const scores = [ 14, 21, 35 ];
         console.log(scores);
 
         scores.push(45);
+        scores[0] = 16;
         console.log(scores);
 
         // Trying to re-assign this array will throw an error
