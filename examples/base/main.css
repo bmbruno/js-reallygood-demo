@@ -29,13 +29,13 @@ table { border-collapse: collapse; border-spacing: 0; }
 * { box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; }
 html { overflow-y: scroll; }
 img { max-width: 100%; }
-a, a:visited { text-decoration: underline; color: rgb(0, 0, 0); -webkit-transition: all 0.15s ease-in-out; }
+a, a:visited { text-decoration: underline; color: rgb(0, 0, 0); -transition: all 0.15s ease-in-out; }
 strong { font-weight: bold; }
 
 /* THEME */
 
 body { font-family: 'Arial', sans-serif; font-size: 1em; background-color: rgb(207, 207, 207); background: linear-gradient(#f3a2a2, #9498c7); }
-h1 { font-size: 2em; font-weight: bold; margin-bottom: 0.5em; }
+h1 { font-size: 2em; font-weight: bold; margin-bottom: 0.5em; text-shadow: 1px 1px 6px #000, 1px 1px 0 #000; color: #FFF; }
 h2 { font-size: 1.5em; font-weight: bold; margin-bottom: 0.5em;  }
 em { font-style: italic; }
 p { line-height: 1.5em; }
