@@ -22,7 +22,7 @@
         //
 
         console.clear();
-        console.log("EXAMPLE: Variable Scoping: var");
+        console.log("DEMO: Variable Scoping: var");
 
         // Declaring a variable that will be global to this function
         var announcement = 'This is a global variable!';
@@ -47,7 +47,7 @@
         //
 
         console.clear();
-        console.log("EXAMPLE: Variable Scoping: let");
+        console.log("DEMO: Variable Scoping: let");
 
         // Declaring a variable that will be global to this function
         var announcement = 'This is a global variable!';
@@ -73,7 +73,7 @@
         //
 
         console.clear();
-        console.log("EXAMPLE: Variable Scoping: const");
+        console.log("DEMO: Variable Scoping: const");
 
         // Declaring a variable that cannot be directly mutated/changed
         const announcement = "This cannot be changed!";

@@ -16,7 +16,7 @@
     window.Demo.firstClassFunctions = function () {
 
         console.clear();
-        console.log("EXAMPLE: First-Class Functions");
+        console.log("DEMO: First-Class Functions");
 
         //
         // EXAMPLE 1: Assign function to a variable

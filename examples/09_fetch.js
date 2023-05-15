@@ -12,7 +12,7 @@
     window.Demo.Fetch = function () {
 
         console.clear();
-        console.log("EXAMPLE: Fetch");
+        console.log("DEMO: Fetch");
 
         //
         // EXAMPLE: Fetch loads data from a remote server

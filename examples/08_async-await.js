@@ -12,7 +12,7 @@
     window.Demo.AsyncAwait = function () {
 
         console.clear();
-        console.log("EXAMPLE: Async & Await");
+        console.log("DEMO: Async & Await");
 
         // 'async' tells the interpreter to not wait for this function - it can continue executing 
         // the rest of the program while this function does its thing asynchronously

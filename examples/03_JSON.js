@@ -18,7 +18,7 @@
     window.Demo.JSON = function () {
 
         console.clear();
-        console.log("EXAMPLE: JSON");
+        console.log("DEMO: JSON");
 
         //
         // EXAMPLE 1: Serializing a JavaScript object

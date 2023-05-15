@@ -20,7 +20,7 @@
     window.Demo.Promises = function () {
 
         console.clear();
-        console.log("EXAMPLE: Promises");
+        console.log("DEMO: Promises");
 
         // Support function
         function DoLotsOfWork() {

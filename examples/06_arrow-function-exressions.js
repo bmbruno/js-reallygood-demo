@@ -15,7 +15,7 @@
     window.Demo.ArrowFunctionExpressions = function () {
 
         console.clear();
-        console.log("EXAMPLE: Arrow Function Expressions");
+        console.log("DEMO: Arrow Function Expressions");
 
         //
         // EXAMPLE 1: Regular function with parameters and its expression equivilant

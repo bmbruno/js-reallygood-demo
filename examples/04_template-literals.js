@@ -14,7 +14,7 @@
     window.Demo.TemplateLiterals = function () {
 
         console.clear();
-        console.log("EXAMPLE: Template Literals");
+        console.log("DEMO: Template Literals");
 
         //
         // EXAMPLE 1: Multi-line string

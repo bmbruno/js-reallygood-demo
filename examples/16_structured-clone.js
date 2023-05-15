@@ -11,7 +11,7 @@
     window.Demo.XXXXXXXXXX = function () {
 
         console.clear();
-        console.log("EXAMPLE: XXXXXXXXXX");
+        console.log("DEMO: XXXXXXXXXX");
 
         //
         // EXAMPLE: Descriptions

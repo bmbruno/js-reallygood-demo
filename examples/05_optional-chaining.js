@@ -12,7 +12,7 @@
     window.Demo.OptionalChaining = function () {
 
         console.clear();
-        console.log("EXAMPLE: Optional Chaining");
+        console.log("DEMO: Optional Chaining");
 
         // An object with various properties
         let ship = {
