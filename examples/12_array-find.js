@@ -2,16 +2,16 @@
 
     /*
     
-    XXXXXXXXXX
+    Array.find
     
     Description
     
     */
 
-    window.Demo.XXXXXXXXXX = function () {
+    window.Demo.ArrayFind = function () {
 
         console.clear();
-        console.log("DEMO: XXXXXXXXXX");
+        console.log("DEMO: Array.find");
 
         //
         // EXAMPLE: Descriptions

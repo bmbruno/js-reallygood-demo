@@ -2,16 +2,16 @@
 
     /*
     
-    XXXXXXXXXX
+    Structured Clone
     
     Description
     
     */
 
-    window.Demo.XXXXXXXXXX = function () {
+    window.Demo.StructuredClone = function () {
 
         console.clear();
-        console.log("DEMO: XXXXXXXXXX");
+        console.log("DEMO: Structured Clone");
 
         //
         // EXAMPLE: Descriptions

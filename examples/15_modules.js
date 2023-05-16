@@ -2,16 +2,16 @@
 
     /*
     
-    XXXXXXXXXX
+    Modules
     
     Description
     
     */
 
-    window.Demo.XXXXXXXXXX = function () {
+    window.Demo.Modules = function () {
 
         console.clear();
-        console.log("DEMO: XXXXXXXXXX");
+        console.log("DEMO: Modules");
 
         //
         // EXAMPLE: Descriptions

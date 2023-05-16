@@ -2,16 +2,16 @@
 
     /*
     
-    XXXXXXXXXX
+    String.replaceAll
     
     Description
     
     */
 
-    window.Demo.XXXXXXXXXX = function () {
+    window.Demo.StringReplaceAll = function () {
 
         console.clear();
-        console.log("DEMO: XXXXXXXXXX");
+        console.log("DEMO: String.replaceAll");
 
         //
         // EXAMPLE: Descriptions

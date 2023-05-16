@@ -2,16 +2,16 @@
 
     /*
     
-    XXXXXXXXXX
+    Array.map
     
     Description
     
     */
 
-    window.Demo.XXXXXXXXXX = function () {
+    window.Demo.ArrayMap = function () {
 
         console.clear();
-        console.log("DEMO: XXXXXXXXXX");
+        console.log("DEMO: Array.map");
 
         //
         // EXAMPLE: Descriptions
