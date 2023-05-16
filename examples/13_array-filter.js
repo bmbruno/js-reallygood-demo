@@ -2,16 +2,16 @@
 
     /*
     
-    Array.find
+    Array.filter
     
     Description
     
     */
 
-    window.Demo.ArrayFind = function () {
+    window.Demo.ArrayFilter = function () {
 
         console.clear();
-        console.log("DEMO: Array.find");
+        console.log("DEMO: Array.findIndex");
 
         //
         // EXAMPLE: Descriptions

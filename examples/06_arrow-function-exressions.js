@@ -5,10 +5,10 @@
     ARROW FUNCTION EXPRESSIONS
 
     Function expressions are a terse alternative to writing full-fledge functions. Arrow function
-    expressions also do not have a binding to 'this' (this means they should not be used as methods).
+    expressions also do not have a binding to 'this' (meaning they should not be used as methods).
 
-    Arrow function expressions can be used to implement terse functionality without the ceremony
-    of full fledge functions.
+    Arrow function expressions can be used to implement functionality without the ceremony of
+    full fledge functions.
     
     */
 
