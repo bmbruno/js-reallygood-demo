@@ -48,5 +48,6 @@ header { margin: 2em auto 0 auto; text-align: center; }
 .card:last-of-type { margin-bottom: 0; }
 .card button { padding: 0.5em 2em; cursor: pointer; }
 .card p { margin: 1em 0 0 0; }
-.card ul { margin: 1em 0; }
-.card li { margin-left: 2em; list-style-type: disc; margin-bottom: 1em;}
+.card ul { margin: 1em 0 0 0; }
+.card li { margin-left: 2em; list-style-type: disc; margin-bottom: 1em; line-height: 1.25em; }
+.card li:last-of-type { margin-bottom: 0; }

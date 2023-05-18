@@ -4,8 +4,9 @@
     
     Generators
     
-    A generator function is a type of iterator that 
-    is denoted with an asterisk after the function keyword (function*).
+    A generator function is a type of iterator that maintains the state of a function
+    each time a value is needed. Generator functions are denoted with an asterisk after
+    the function keyword (function*).
     
     */
 
@@ -18,7 +19,7 @@
         // EXAMPLE 1: This generator will produce sequential numbers infinity
         //
 
-        function* IncrementInfinitely() {
+        function* incrementInfinitely() {
             
             x = 0;
             
@@ -26,14 +27,14 @@
 
                 x += 1;
 
-                // 'yield' will return the current value of x when .next() is called
+                // 'yield' will return the current value of 'x' when .next() is called
                 // on this instance of the generator function
                 yield x;
             }
         }
 
-        // Instantiate function; this will create a generator that maintains state
-        let gen = IncrementInfinitely();
+        // Instantiate the generator function; this will create a function that maintains state when using 'yield'
+        let gen = incrementInfinitely();
 
         // .next() returns an object with two values:
         //     'value' (whatever is being yielded)
@@ -44,8 +45,7 @@
         console.log(gen.next().value);
         console.log(gen.next().value);
         console.log(gen.next().value);
-        console.log(gen.next().value);    
-
+        console.log(gen.next().value);
     }
 
 })();
