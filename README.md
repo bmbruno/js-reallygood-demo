@@ -8,7 +8,7 @@ To use this:
 2) Open `index.html` in your web browser
 3) Open your browser's developer tools
 4) Click on an example's button to execute it
-    * observe the results in your browser console
+    * observe the results in your browser's console
 
 These example correspond to my presentation **JavaScript: The (Really) Good Parts**.
 
