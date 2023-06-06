@@ -4,7 +4,13 @@
     
     Destructuring
     
-    Unpacks values from an array or object into variables.
+    Unpacks values from an array or object into variables. The general syntax is:
+
+        let [ value1, value2, value3 ] = arrayVariable;
+
+    Closely related is the Rest operator, which catches the remaining values that weren't handled via destructuring:
+
+        let [ value1, ...everythingElse ] = arrayVariable
     
     */
 
@@ -19,7 +25,7 @@
 
         let numbers = [ 4, 7, 13, 22 ];
 
-        // Destructure the array into variables (variable names don't matter)
+        // Destructure the array into variables (variable names don't matter and can be anything)
         let [ a, b, c, d ] = numbers;
 
         console.log(`a: ${a}, b: ${b}, c: ${c}, d: ${d}`);
