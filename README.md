@@ -16,6 +16,12 @@ These example correspond to my presentation **JavaScript: The (Really) Good Part
 
 * https://www.brandonbruno.com/sites/code/jsreallygood
 
+## Presentations
+
+Links to my presentation _JavaScript: The (Really) Good Parts_, as presented at various conferences:
+
+* [Nebraska.Code (2023, PDF)](https://www.brandonbruno.com/sites/speaking/JavaScript_TheReallyGoodParts_NebraskaCode.pdf)
+
 ## Contact Info
 
 For questions, reach out to me via email: [bmbruno@gmail.com](mailto:bmbruno@gmail.com)
