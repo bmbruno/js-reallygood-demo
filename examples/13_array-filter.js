@@ -2,7 +2,7 @@
 
     /*
     
-    Array.filter
+    ARRAY.FILTER
     
     filter() returns a new array containing elements that match the truthy condition of
     the provided callback function.

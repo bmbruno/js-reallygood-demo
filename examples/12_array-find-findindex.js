@@ -2,7 +2,7 @@
 
     /*
     
-    Array.find & Array.findIndex
+    ARRAY.FIND & ARRAY.FINDINDEX
     
     find() and findIndex() are methods of the Array object that iterate and return the first value
     that matches the truthy condition of the provided callback function. The return value of

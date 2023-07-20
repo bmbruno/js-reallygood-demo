@@ -2,7 +2,7 @@
 
     /*
     
-    Destructuring
+    DESTRUCTURING
     
     Unpacks values from an array or object into variables. The general syntax is:
 
@@ -10,7 +10,7 @@
 
     Closely related is the Rest operator, which catches the remaining values that weren't handled via destructuring:
 
-        let [ value1, ...everythingElse ] = arrayVariable
+        let [ value1, ...everythingElse ] = arrayVariable;
     
     */
 

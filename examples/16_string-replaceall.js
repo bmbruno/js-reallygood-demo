@@ -2,7 +2,7 @@
 
     /*
     
-    String.replaceAll
+    STRING.REPLACEALL
     
     The String method replaceAll() replaces *all* instances of a string with another. This contrasts
     to the older replace() method, which only replaced the first instance of a string.

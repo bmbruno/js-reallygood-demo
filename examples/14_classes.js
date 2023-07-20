@@ -2,7 +2,7 @@
 
     /*
     
-    Classes
+    CLASSES
     
     JavaScript classes provide encapsulation for data and code. These are similar to classes 
     in most modern object-oriented languages. Under the covers, classes use prototypes to

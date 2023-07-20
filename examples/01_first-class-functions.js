@@ -5,11 +5,11 @@
     FIRST CLASS FUNCTIONS
     
     Functions are considered 'first-class' when they can be passed around like a variable.
-    In JavaScript, functions can be assigned to a variable like any other value, then that
-    variable can be passed around, returned, and invoked.
+    In JavaScript, functions can be assigned to a variable like any other value, then
+    passed around, returned, and invoked.
 
-    In JavaScript, first-class functions allow for highly-dynamic behavior to be created by
-    deferring or delegating program logic to a later exection time.
+    In JavaScript, first-class functions allow for dynamic behavior to be created by
+    deferring or delegating logic to a later exection time.
     
     */
 

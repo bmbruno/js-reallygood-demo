@@ -2,7 +2,7 @@
 
     /*
     
-    Array.map
+    ARRAY.MAP
     
     Array.map() executes a function for each element of an array and returns a new array.
     It accepts a callback function (typically written as an arrow function expression) that

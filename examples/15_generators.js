@@ -2,7 +2,7 @@
 
     /*
     
-    Generators
+    GENERATORS
     
     A generator function is a type of iterator that maintains the state of a function
     each time a value is needed. Generator functions are denoted with an asterisk after

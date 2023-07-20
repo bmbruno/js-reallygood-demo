@@ -2,7 +2,7 @@
 
     /*
     
-    Async & Await
+    ASYNC & AWAIT
 
     'async' and 'await' provide a different syntax and structure for working with promises; they primarily
     help solve the problem of 'thenable hell' and long promise chains.

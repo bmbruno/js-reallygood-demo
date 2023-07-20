@@ -2,10 +2,10 @@
 
     /*
     
-    Fetch
+    FETCH
     
     Fetch provides a way to request data from a server. It can also be used to send data to a server.
-    The fetch() method returns a promise.    
+    The fetch() method returns a promise.
     
     */
 

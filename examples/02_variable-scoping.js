@@ -4,12 +4,12 @@
     
     VARIABLE SCOPING
     
-    JavaScript has several keywords for affecting the scope of variables.
+    JavaScript has several keywords for defining the scope of variables.
 
         var: global- or function-scoped; only available in the current function or the 
-                global object ('window' in browsers)
+             global object ('window' in browsers)
 
-        let: block scope; only available in the current code block
+        let: block scope; only available in the current code block (usually between { and })
 
         const: variable cannot be re-assigned (but sub-values can still be changed)
     

@@ -4,11 +4,11 @@
     
     JAVASCRIPT OBJECT NOTATION (JSON)
     
-    JSON is a way to represent structured data as a JavaScript object. JSON be easily serialized and 
+    JSON is a way to represent structured data as a JavaScript object. JSON can be easily serialized and 
     deserialized to a string format for transmission between applications, servers, etc. Because JSON
-    transforms from string to a native JavaScript object, it can be used as native code without extra effort.
+    transforms from string to a native JavaScript object, it can be used as native code with minimal effort.
 
-    Most JavaScript runtimes include functions to serialized/deserialize JavaScript objects. For example:
+    Most JavaScript runtimes include functions to serialize/deserialize JavaScript objects. For example:
 
         JSON.stringify() - serialize JavaScript objects to JSON
         JSON.parse() - deserialize JSON to JavaScript objects
@@ -38,7 +38,7 @@
         let payload = JSON.stringify(voyager);
 
         console.log(voyager);
-        console.log(payload);
+        console.log("JSON: " + payload);
             
         //
         // EXAMPLE 2: Deserializing JSON to a JavaScript object

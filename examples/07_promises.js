@@ -4,7 +4,8 @@
     
     PROMISES
 
-    This demonstrates how to write and use the Promise object.
+    This demonstrates how to write and use the Promise object. Promise provides an API for
+    writing/executing asynchronous code.
             
     The Promise object accepts a single parameter: a function that itself takes two parameters:
 
