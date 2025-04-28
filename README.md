@@ -20,8 +20,10 @@ These example correspond to my presentation **JavaScript: The (Really) Good Part
 
 Links to my presentation _JavaScript: The (Really) Good Parts_, as presented at various conferences:
 
+* [Stir Trek 2025 (2025, PDF)](https://www.brandonbruno.com/sites/speaking/JavaScript_TheReallyGoodParts_StirTrek2025.pdf)
 * [Kansas City Developer Conference (2024, PDF)](https://www.brandonbruno.com/sites/speaking/JavaScript_TheReallyGoodParts_KCDC2024.pdf)
 * [Nebraska.Code (2023, PDF)](https://www.brandonbruno.com/sites/speaking/JavaScript_TheReallyGoodParts_NebraskaCode.pdf)
+* Scenic CIty Summit (2022, no file)
 
 ## Contact Info
 
