@@ -46,6 +46,9 @@
         console.log(gen.next().value);
         console.log(gen.next().value);
         console.log(gen.next().value);
+        console.log("Done yet? " + gen.next().done);
+        console.log(gen.next().value);
+        console.log(gen.next().value);
     }
 
 })();
