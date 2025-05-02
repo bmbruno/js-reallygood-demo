@@ -35,6 +35,9 @@
         // 'ship.captain.middleName' doesn't exist; returns 'undefined'
         console.log("Captain Middle Name: " + ship?.captain?.middleName);
 
+        // Combine with nullish coalescing to get a default value
+        console.log("Borg currently onboard: " + (ship?.security?.intruders?.borg ?? "false"));
+
     }
 
 })();
