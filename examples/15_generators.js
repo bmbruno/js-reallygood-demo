@@ -16,7 +16,7 @@
         console.log("DEMO: Generators");
 
         //
-        // EXAMPLE 1: This generator will produce sequential numbers infinity
+        // EXAMPLE 1: This generator will produce sequential numbers infinitely
         //
 
         function* incrementInfinitely() {
